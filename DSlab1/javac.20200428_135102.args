@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\Forge-15 i7\\Documents\\NetBeansProjects\\DSlab1\\build\\classes"
+-classpath
+"C:\\Users\\Forge-15 i7\\Documents\\NetBeansProjects\\DSlab1\\build\\classes"
+-sourcepath
+"C:\\Users\\Forge-15 i7\\Documents\\NetBeansProjects\\DSlab1\\src"
+-target
+12
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\Forge-15 i7\\Documents\\NetBeansProjects\\DSlab1\\build\\empty"
+-s
+"C:\\Users\\Forge-15 i7\\Documents\\NetBeansProjects\\DSlab1\\build\\generated-sources\\ap-source-output"
+-source
+12
+"C:\\Users\\Forge-15 i7\\Documents\\NetBeansProjects\\DSlab1\\src\\dslab1\\DSlab1.java"
